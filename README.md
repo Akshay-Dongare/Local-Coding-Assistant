@@ -28,3 +28,4 @@ Continue
 
 ## Sources
 * https://sourcegraph.com/blog/local-code-completion-with-ollama-and-cody
+* [text](https://www.youtube.com/watch?v=gY_E3QBZ-NE&t=1s&ab_channel=MatthewBerman)
