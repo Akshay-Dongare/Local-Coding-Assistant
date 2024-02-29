@@ -16,11 +16,15 @@ Continue
   5. Navigate to `Cody › Autocomplete › Advanced: Provider` and select `experimental-ollama`
   6. Navigate to `Cody › Autocomplete › Advanced: Server Endpoint` and type `http://localhost:11434`
   7. Your local coding assistant is up and running!
-  8. To check it's performance, make a new python file and type `#fibonacci method`
-  9. Example: ![alt text](image-1.png) ![alt text](image-2.png)
-  10. codellama:7b-code will start auto-completing the code for you!
-  11. To check logs, go to `Console>Output` and select `Cody by Sourcegraph`
-  12. You should see something similar to: ![alt text](image.png)
+
+## Demo
+* To check it's performance, make a new python file and type `#fibonacci method` and codellama:7b-code will start auto-completing the code for you!
+* Example: 
+* ![alt text](image-1.png) 
+* ![alt text](image-2.png)
+* To check logs, go to `Console>Output` and select `Cody by Sourcegraph`
+* You should see something similar to: 
+* ![alt text](image.png)
 
 ## Sources
 * https://sourcegraph.com/blog/local-code-completion-with-ollama-and-cody
