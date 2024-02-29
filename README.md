@@ -1,5 +1,7 @@
 # Local-Coding-Assistant
-Building a Local Coding Assistant with Code Llama and Cody
+Building a Local Coding Assistant with Code Llama and Cody AI and Continue
+
+> Local Coding Assistants: Making coding more efficient, one model at a time!
 
 ## Getting up to speed
 * If you are just starting out with local LLMs, refer to my guide on setting up your own local LLM using Ollama here: https://github.com/Akshay-Dongare/Ollama-Local-LLM
@@ -45,8 +47,10 @@ Building a Local Coding Assistant with Code Llama and Cody
       "provider": "ollama"
 }
 ```
-12. Now all your local models will be available within `Continue` interface and you can use them to chat with your code
-13. This way, even the custom models you have created using ModelFile/System Prompt editing (via `ollama create {custom_model_name} --file {path_to_modelfile}`) will also be available in `Continue`!
+12. Now you can easily chat with all the files in your codebase like so:
+13. ![alt text](image-3.png)
+14. Now all your local models will be available within `Continue` interface and you can use them to chat with your code, without the internet, fully private, free-of-cost and local!
+15. This way, even the custom models you have created using ModelFile/System Prompt editing (via `ollama create {custom_model_name} --file {path_to_modelfile}`) will also be available in `Continue`!
 
 ## Sources
 * https://sourcegraph.com/blog/local-code-completion-with-ollama-and-cody
