@@ -4,7 +4,7 @@ Building a Local Coding Assistant with Code Llama and Cody
 Continue
 ## Getting up to speed
 * If you are just starting out with local LLMs, refer to my guide on setting up your own local LLM using Ollama here: https://github.com/Akshay-Dongare/Ollama-Local-LLM
-## Pulling Code Llama
+## Pulling CodeLlama
 * Open cmd and run: `ollama pull codellama:7b-code`
 * Note: codellama is a LLM finetuned for coding domain
 ## Integration with Visual Studio Code
@@ -21,3 +21,6 @@ Continue
   10. codellama:7b-code will start auto-completing the code for you!
   11. To check logs, go to `Console>Output` and select `Cody by Sourcegraph`
   12. You should see something similar to: ![alt text](image.png)
+
+## Sources
+* https://sourcegraph.com/blog/local-code-completion-with-ollama-and-cody
